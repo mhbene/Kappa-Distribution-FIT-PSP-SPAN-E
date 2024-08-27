@@ -1,0 +1,1 @@
+Códico aberto para transformação de fluxo diferencial de energia em função de distribuição de velocidade de partículas medidas pela sonda Parker através do instrumento SPAN-E. Fits supratérmicos e Gaussianos dos dados.
